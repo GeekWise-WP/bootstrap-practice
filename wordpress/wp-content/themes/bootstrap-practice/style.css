@@ -3,3 +3,8 @@ Theme Name: Bootstrap 4 Practice
 Author: RNelson
 Version 1.0
 */
+
+.row {
+    background-color: lightblue;
+    
+}
